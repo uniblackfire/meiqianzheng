@@ -1,3 +1,5 @@
+package com.meiqianzheng.java;
+
 import org.junit.Before;
 import org.junit.Test;
 

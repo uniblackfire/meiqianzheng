@@ -1,3 +1,5 @@
+package com.meiqianzheng.java;
+
 public class Item {
     private String name;
     private int price;
@@ -6,7 +8,7 @@ public class Item {
         this.name = name;
         this.price = price;
     }
-    
+
     public String getName() {
         return name;
     }
