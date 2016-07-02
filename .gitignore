@@ -1,2 +1,5 @@
+.gradletasknamecache
 .gradle/
 *.i*
+
+out/
